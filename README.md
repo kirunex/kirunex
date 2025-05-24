@@ -48,9 +48,17 @@ Blending code and creativity — one calm stroke at a time.
 
 ### Code in Motion: My GitHub Flow
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirunex&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirunex&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kirunex&theme=radical)
+<p align="center">
+  <a href="https://github.com/kirunex">
+    <img src="https://github-readme-stats.vercel.app/api?username=kirunex&show_icons=true&theme=radical" alt="visitor badge"/>
+  </a>
+  <a href="https://github.com/kirunex">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirunex&layout=compact&theme=radical" alt="visitor badge"/>
+  </a>
+  <a href="https://github.com/kirunex">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirunex&theme=radical" alt="visitor badge"/>
+  </a>
+</p>
 
 ---
 
